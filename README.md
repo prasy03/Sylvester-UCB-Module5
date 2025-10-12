@@ -92,5 +92,5 @@ Consider extending the validity period of bar coupons.
 - Unemployed individuals and students collectively account for more than 56% of total coffee consumption.
 
 
-nemployed individuals and students represent a portion (over 56%) of total coffee consumption, indicating that these categories are key targets for coffee house promotions. Tailoring coupon strategies to appeal to these groups could significantly boost redemption rates and overall engagement in the coffee house category.
+Unemployed individuals and students represent a portion (over 56%) of total coffee consumption, indicating that these categories are key targets for coffee house promotions. Tailoring coupon strategies to appeal to these groups could significantly boost redemption rates and overall engagement in the coffee house category.
 
