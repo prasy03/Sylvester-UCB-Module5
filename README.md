@@ -5,6 +5,9 @@
 The `"coupons"` dataset was analyzed using pandas and other standard packages. 
 This analysis extracted meaningful information, providing a better understanding of the data and aiding in the prediction of future customer behaviors based on observed patterns.
 
+Link to Juypter notebook: [link](https://github.com/prasy03/Sylvester-UCB-Module5/blob/main/Module5-Coupon-Project-Response1.3.ipynb)
+Link to dataset: [link](https://raw.githubusercontent.com/prasy03/Sylvester-UCB-Module5/refs/heads/main/coupons.csv)
+
 ### Steps used to extract and visualize (reference to CRISP-DM) 
 
 #### Business Understanding: 
